@@ -9,3 +9,4 @@ It is recommended you set up a virtual environment with the correct dependencies
 
 By default, the server uses a local PyMongo server - comment out lines requiring server in the API if not needed.
 
+Use Python3. 
