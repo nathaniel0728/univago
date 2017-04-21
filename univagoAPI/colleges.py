@@ -7,6 +7,7 @@ from uva import uvaUpdate
 from cornell import cornellUpdate
 from cmu import cmuUpdate
 
+#yes, this is ugly, but it works... I'll fix it later
 def updateCollege():
 	colleges = []
 	colleges.append(michiganUpdate())
